@@ -6,15 +6,9 @@ A minimal, responsive personal website ready to be hosted with GitHub Pages.
 
 Open `index.html` in a web browser. No build step or dependencies are required.
 
-## Add a profile photo
+## Update the profile photo
 
-1. Create an `assets` directory.
-2. Save the photo as `assets/profile.jpg`.
-3. In `index.html`, replace the contents of `.profile-photo` with:
-
-```html
-<img src="assets/profile.jpg" alt="Myeongsoo Song" />
-```
+Replace `assets/profile.jpg` with the new photo while keeping the same filename.
 
 ## Add LinkedIn
 
